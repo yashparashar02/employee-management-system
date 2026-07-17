@@ -4,7 +4,7 @@ import FooterComponent from './components/FooterComponent'
 import HeaderComponent from './components/HeaderComponent'
 import ListDepartmentComponents from './components/ListDepartmentComponents'
 import ListEmployeeComponents from './components/ListEmployeeComponents'
-import DepartmentComponent from './components/departmentComponent'
+import DepartmentComponent from './components/DepartmentComponent'
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 
 function App() {
